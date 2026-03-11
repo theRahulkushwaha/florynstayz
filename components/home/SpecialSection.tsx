@@ -23,21 +23,21 @@ export default function SpecialSection() {
             title="Prime Location"
             description="Located in the heart of the city with easy access to business hubs, shopping centers, and tourist attractions."
             // image="/images/features/location.jpg"
-            image="/images/LogoFs.jpeg"
+            image="/images/properties/H1.png"
           />
 
           <FeatureCard
             title="Clean & Safe Rooms"
             description="We maintain high hygiene standards and ensure every room is sanitized for your safety and comfort."
             // image="/images/features/clean-room.jpg"
-            image="/images/LogoFs.jpeg"
+            image="/images/properties/p2.png"
           />
 
           <FeatureCard
             title="Affordable Luxury"
             description="Enjoy premium amenities and elegant interiors at prices that provide excellent value for your stay."
             // image="/images/features/luxury.jpg"
-            image="/images/LogoFs.jpeg"
+            image="/images/properties/p1.png"
           />
 
         </div>

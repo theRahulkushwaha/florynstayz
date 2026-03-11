@@ -59,7 +59,7 @@ export default function Footer() {
               Follow Us
             </h3>
             <div className="flex space-x-6 text-gray-300">
-              <Link href="#" className="hover:text-white transition">
+              <Link href="https://www.instagram.com/floryn_stayz?igsh=a3gzeWRzNmkyMXlt" className="hover:text-white transition">
                 Instagram
               </Link>
               <Link href="#" className="hover:text-white transition">
@@ -77,11 +77,11 @@ export default function Footer() {
         <div className="border-t border-white/20 pt-6 text-sm text-gray-300 flex flex-col md:flex-row justify-between gap-4">
 
           <div>
-            address, Gurgaon, India
+            B-708 Sushant Lok Phase-1 Near Huda city Centre Gurgaon
           </div>
 
           <div>
-            Mobile no. | info@florynstayz.com
+            9667276093 | Florynstayz@gmail.com
           </div>
 
           <div>

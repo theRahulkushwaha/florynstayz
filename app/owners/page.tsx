@@ -1,9 +1,17 @@
-import React from 'react'
+import OwnersHero from "@/components/owners/OwnersHero";
+import OwnersStats from "@/components/owners/OwnersStats";
+import OwnersBenefits from "@/components/owners/OwnersBenefits";
+import PropertySlider from "@/components/owners/PropertySlider";
+import OwnersCTA from "@/components/owners/OwnersCTA";
 
-const owners = () => {
+export default function OwnersPage() {
   return (
-    <div>owners</div>
-  )
+    <>
+      <OwnersHero />
+      <OwnersStats />
+      <OwnersBenefits />
+      <PropertySlider />
+      <OwnersCTA />
+    </>
+  );
 }
-
-export default owners
