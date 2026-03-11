@@ -3,6 +3,8 @@ import RoomsSection from "@/components/home/RoomsSection";
 import SpecialSection from "@/components/home/SpecialSection";
 import TrustSection from "@/components/home/TrustSection";
 import Reveal from "@/components/animations/Reveal";
+import LocationSection from "@/components/home/LocationSection";
+
 
 export default function Home() {
   return (
@@ -19,6 +21,10 @@ export default function Home() {
 
       <Reveal>
         <TrustSection />
+      </Reveal>
+
+      <Reveal>
+        <LocationSection />
       </Reveal>
     </>
   );
